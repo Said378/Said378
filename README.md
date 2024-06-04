@@ -7,7 +7,7 @@ Java Developer
 A passionate software engineer specializing in Java development with a strong focus on Spring Boot and Quarkus frameworks. With a keen interest in building robust, scalable, and efficient applications, I thrive on tackling complex challenges and delivering high-quality solutions.
 
 * 🌍  I'm based in Egypt
-* ✉️  You can contact me at [said378157@gmail.com](mailto:said378157@gmail.com)
+* ✉️  You can contact me at [saids.abdulkarim@gmail.com](mailto:saids.abdulkarim@gmail.com)
 * 🧠  I'm learning Cloud computing for developers
 * 🤝  I'm open to collaborating on Spring Boot and Quarkus projects
 
